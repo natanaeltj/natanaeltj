@@ -1,7 +1,7 @@
 ## Oi, me chamo Natanael Teixeira 👋
 
 - 🔭 Estou atualmente trabalhando como front-end
-- 🌱 Estou aprendendo e maesterizando react
+- 🌱 Estou aprendendo e maesterizando javascript
 - 👯 Estou trabalhando atualmente em projetos pessoais
 - 📫 Meu email para contato é: natanaelteixeiradejesus2@gmail.com
 
