@@ -1,9 +1,8 @@
 ## Oi, me chamo Natanael Teixeira 👋
 
-- 🔭 Estou atualmente trabalhando como front-end
-- 🌱 Estou aprendendo e maesterizando javascript
-- 👯 Estou trabalhando atualmente em projetos pessoais
-- 📫 Meu email para contato é: natanaelteixeiradejesus2@gmail.com
+- 🔭 Estou atualmente trabalhando como desenvolvedor full-stack
+- 👯 Estou trabalhando atualmente realizando um sistema de gerenciamento de agendamentos e pagamentos para uma barbearia
+- 📫 Meu email para contato é: natanael.t.dev@gmail.com
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natanaeltj&https://github.com/natanaeltj/github-readme-statshttps://github.com/natanaeltj/natanaeltj/README.md&theme=transparent">
@@ -15,6 +14,8 @@
     <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/php/php-original.svg">
+    
 </div>
 
 ##
